@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<head>
+
+	<script>
+		var is_chrome = navigator.userAgent.indexOf('Chrome') > -1;
+	    var is_safari = navigator.userAgent.indexOf("Safari") > -1;
+	    if ((is_chrome)&&(is_safari)) {is_safari=false;}
+	    var isIE11 = !!navigator.userAgent.match(/Trident.*rv[ :]*11\./)
+
+         if( navigator.userAgent.indexOf("MSIE") != -1 || isIE11 ) 
+        {
+            
+        } 
+         else if(is_safari ) 
+        {
+            
+        } else{
+        	location.href = 'index.html';
+        }
+    </script>
+
+	<meta charset="UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title> Cadaver Exquisito </title>
+	<meta name="description" content="Un recorrido visual por los lugares más icónicos de la ciudad de México desde el punto de vista de todos los capitalinos."/>
+	<meta name="keywords" content=" Cadaver Exquisito, cultura, twitter, Museo Soumaya, Aldea Digital, CTIN, Interactividad" />
+	<meta name="author" content="http://ctinmx.com" />
+
+	<!-- Bootstrap Core CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+
+	<!-- Ligas de Estilos -->
+	<link rel="stylesheet" type="text/css" href="css/main.css" />
+
+	<!-- Iconos -->
+	<link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+	<link rel="shortcut icon" href="img/favicon.ico">
+
+		<!-- Metadata for Facebook -->
+	<meta property="og:title" content="Cadáver Exquisito - Un recorrido visual por los lugares más icónicos de la ciudad de México desde el punto de vista de todos los capitalinos." />
+    <meta property="og:site_name" content="Cadáver Exquisito" />
+    <meta property="og:url" content="http://cadaveraldea.com" />
+    <meta property="og:description" content="El Museo Soumaya y Aldea Digital te invitan a formar parte del de esta actividad cultural en linea, comparte tus historias y vivencias en la Ciudad de México con ayuda del hasta #MiAldea." />
+    <meta property="og:type" content="article" />
+    <meta property="og:locale:alternate" content="es_ES" />
+    <meta property="article:author" content="" />
+    <meta property="article:publisher" content="http://cadaveraldea.com" />
+     <meta property="og:image" content="http://cadaveraldea.com/img/fb.png" />
+
+
+	<!-- Metadata for Twitter -->
+	<meta name="twitter:card" content="Cadáver Exquisito">
+	<meta name="twitter:site" content="@CadaverAldea">
+	<meta name="twitter:creator" content="@hola_miguelo">
+	<meta name="twitter:title" content="Un recorrido visual por los lugares más icónicos de la ciudad de México desde el punto de vista de todos los capitalinos.">
+	<meta name="twitter:description" content="El Museo Sumaya y Aldea Digital te invitan a formar parte del de esta actividad cultural en linea, comparte tus historias y vivencias en la Ciudad de México con ayuda del hasta #MiAldea.">
+	<meta name="twitter:image" content="http://batit.co/cadaver/img/fb.png">
+
+</head>
+<body >
+	<div class="container" style="margin: 0; padding: 0; width:100%;">
+		<!-- HEADER -->
+		<header class="codrops-header row-fluid  ">
+			<div class="col-xs-6 text-left list-inline">
+				<!-- Logo Menudesplegable -->
+				<li class="dropdown">
+		          <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><img src="img/Menu.svg"></a>
+
+		         <ul class="dropdown-menu" role="menu">
+		           	<li><a href="carousel.html">Explora</a></li>
+		           	<li><a href="search.html">Encuentra</a></li>
+		            <li><a href="form.html">Participa</a></li>
+		            </li><li><a href="">Conoce más</a></li>
+		            </li><li><a href="faq.html">Preguntas Frecuentes</a></li>
+		          </ul>
+		        </li>
+				
+				<!-- Logo Cadaver -->
+				<li>
+					<a href="index.html"><img src="img/LogoHome.svg" class="logo"   alt="logo"></a>
+				</li>
+			</div>
+			<div id="logos" class="col-xs-6 text-right list-inline">
+				<!-- Logo Aldea -->
+				<li>
+					<a href="http://www.aldeadigitalmx.com" target="_blank"><img src="img/LogoAldea.svg" class="logo" alt="logo"></a>
+				</li>
+
+				<!-- Logo Soumaya -->
+				<li>
+					<a href="http://www.soumaya.com.mx/index.php/esp" target="_blank"><img src="img/LogoSoumaya.svg" class="logo" alt="logo"></a>
+				</li>
+
+				<!-- Logo Ctin -->
+				<li>
+					<a href="http://ctinmx.com" target="_blank">
+						<img src="img/LogoCtin.svg" class="logo" alt="logo">
+					</a>
+				</li>	
+				
+				
+			</div>
+		</header>
+
+		<div class="row info text-center">
+			
+			<div class="col-md-12 ">
+
+				<h1>Ooops !</h1>
+				<hr>
+				<br>
+				<h4 class="text-center" >Lo sentimos, por el momento la experiencia de Cadáver Exquisito sólo está disponible en los siguientes navegadores:</h4>
+			</div>
+
+			<div class="col-md-4 oops">
+				<a href="http://www.google.com/chrome/" target="_blank" >
+					<img src="img/Chrome.ico" alt="">	
+				</a>	
+			</div>
+			<div class="col-md-4 oops">
+				<a href="http://www.opera.com/es-419"target="_blank" >
+					<img src="img/opera.png" alt="">	
+				</a>
+			</div>
+			<div class="col-md-4 oops">
+				<a href="https://www.mozilla.org/es-MX/firefox/new/"target="_blank" >
+					<img src="img/firefox.png" alt="">	
+				</a>			
+			</div>
+		</div>
+
+	</div>
+	<!-- /container -->
+
+
+	<!-- Bootstrap Core JavaScript -->
+
+	<script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    
+</body>
+</html>

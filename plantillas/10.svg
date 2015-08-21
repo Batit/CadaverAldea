@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="841.889px" height="420.945px" viewBox="0 0 841.889 420.945" enable-background="new 0 0 841.889 420.945"
+	 xml:space="preserve">
+<defs>
+  <style type="text/css">
+    @font-face {
+	    font-family: Caviar;
+	    src: url(plantillas/caviar/CaviarDreams_Bold.ttf);
+	}
+  </style>
+</defs>
+<g id="Imagen">
+		<image overflow="visible" enable-background="new    " width="1024" height="512" xlink:href="plantillas/10.png"  transform="matrix(0.8222 0 0 0.8222 2.440512e-04 -0.0095)">
+	</image>
+</g>
+<g id="texto">
+	<path id="p1_30" fill="none" d="M173.12,203.551c0,0,153.521,0,155.061,0"/>
+	<path id="p2_30" fill="none" d="M549.513,203.551c-2.959,0.087,178.828,0,188.778,0"/>
+	<path id="p3_30" fill="none" d="M149.747,222.733c0,0,185.211,0.352,188.915,0"/>
+	<path id="p4_27" fill="none" d="M603.488,222.733c-2.018,0,139.595,0,146.957,0"/>
+	<path id="p5_44" fill="none" d="M149.747,241.916c0,0,232.459,0,235.812,0"/>
+	<path id="p6_29" fill="none" d="M629.017,241.916c-2.939,0,124.499,0,131.428,0"/>
+	<path id="p7_60" fill="none" d="M139.099,261.919c0,0,312.125,0,315.346,0"/>
+	<path id="p8_30" fill="none"  d="M606.778,260.919c0,0,161.501,0,164,0"/>
+	<path id="p9_117" fill="none" d="M139.099,279.821c0,0,610.087,0,616.785,0"/>
+	<path id="p10_112" fill="none" d="M146.235,299.003c0,0,598.068,0,602.173,0"/>
+	<path id="p11_110" fill="none" d="M153.45,318.008c0,0,579.523,0,584.841,0"/>
+	<path id="p12_95" fill="none" d="M193.446,337.188c0,0,501.957,0,507.562,0"/>
+	<path id="p13_79" fill="none" d="M239.447,356.372c0,0,409.724,0,415.562,0"/>
+</g>
+<g id="Creadores">
+	<path id="C1" fill="none" d="M13.511,186.892c0,0,107.188,0,112.943,0"/>
+	<path id="C2" fill="none" d="M13.511,200.595c0,0,107.188,0,112.943,0"/>
+	<path id="C3" fill="none" d="M13.511,214.299c0,0,107.188,0,112.943,0"/>
+	<path id="C4" fill="none" d="M13.511,228.001c0,0,107.188,0,112.943,0"/>
+	<path id="C5" fill="none" d="M13.511,241.705c0,0,107.188,0,112.943,0"/>
+	<path id="C6" fill="none" d="M13.511,255.408c0,0,107.188,0,112.943,0"/>
+	<path id="C7" fill="none" d="M13.511,269.109c0,0,107.188,0,112.943,0"/>
+	<path id="C8" fill="none" d="M13.511,282.811c0,0,107.188,0,112.943,0"/>
+	<path id="C9" fill="none" d="M13.511,296.514c0,0,107.188,0,112.943,0"/>
+	<path id="C10" fill="none" d="M13.511,310.219c0,0,107.188,0,112.943,0"/>
+	<path id="C11" fill="none" d="M13.511,323.922c0,0,107.188,0,112.943,0"/>
+	<path id="C12" fill="none" d="M13.511,337.624c0,0,107.188,0,112.943,0"/>
+</g>
+<g id="added">
+	<text id="text_base" font-family="Caviar" font-size="11" alignment-baseline="text-before-edge" fill="#F5F7F7">
+		<textPath id="texto_path" xlink:href="#p1_30">
+			
+		</textPath>
+	</text>
+</g>
+</svg>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1024px" height="512px" viewBox="0 0 1024 512" enable-background="new 0 0 1024 512" xml:space="preserve">
+<image overflow="visible" width="4267" height="2133" id="fondo" xlink:href="plantillas/Ficha_Angel.png" transform="matrix(0.24 0 0 0.24 0 0)">
+</image>
+<g id="texto">
+	<path id="p1_14" fill="none" stroke="none"  d="M537.243,261.904c0,0,40.324-7.715,80.647,0.701"/>
+	<path id="p2_14" fill="none" stroke="none"  d="M537.243,279.957c0,0,37.169-6.755,80.647,0.701"/>
+	<path id="p3_14" fill="none" stroke="none"  d="M537.243,298.01c0,0,54.788-4.217,80.647,0.701"/>
+	<path id="p4_14" fill="none" stroke="none"  d="M537.243,316.063c0,0,41.902-1.417,80.647,0.701"/>
+	<path id="p5_22" fill="none" stroke="none"  d="M500.777,334.117c0,0,110.275,9.01,153.58,0.701"/>
+	<path id="p6_20" fill="none" stroke="none"  d="M508.141,352.17c0,0,69.25,10.495,138.853,0.701"/>
+	<path id="p7_20" fill="none" stroke="none"  d="M500.777,370.223c0,0,86.081,10.93,153.58,0.701"/>
+	<path id="p8_20" fill="none" stroke="none"  d="M499,388.277c0,0,91.937,7.154,157.133,0.701"/>
+	<path id="p9_20" fill="none" stroke="none"  d="M503.582,406.33c0,0,62.675,9.166,147.97,0.701"/>
+	<path id="p10_18" fill="none" stroke="none"  d="M511.646,424.383c69.251,9.424,131.841,0.701,131.841,0.701"/>
+	<path id="p11_16" fill="none" stroke="none"  d="M518.659,442.438c68.813,6.357,117.815,0.699,117.815,0.699"/>
+	<path id="p12_14" fill="none" stroke="none"  d="M529.179,460.49c40.411,5.662,96.776,0.701,96.776,0.701"/>
+	<path id="p13_14" fill="none" stroke="none"  d="M529.179,478.543c49.615,6.807,96.776,0.701,96.776,0.701"/>
+</g>
+<g id="added">
+	<text id="text_base" font-family="Verdana" font-size="20" alignment-baseline="text-before-edge" fill="skyblue">
+		<textPath id="texto_path" xlink:href=""></textPath>
+	</text>
+</g>
+</svg>

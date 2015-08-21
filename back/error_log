@@ -1,0 +1,396 @@
+[22-Jun-2015 17:55:08 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 20
+[22-Jun-2015 17:55:08 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 21
+[22-Jun-2015 17:55:08 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 57
+[22-Jun-2015 17:55:09 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 20
+[22-Jun-2015 17:55:09 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 21
+[22-Jun-2015 17:55:09 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 57
+[22-Jun-2015 17:55:52 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 20
+[22-Jun-2015 17:55:52 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 21
+[22-Jun-2015 17:55:52 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 57
+[22-Jun-2015 17:55:55 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 20
+[22-Jun-2015 17:55:55 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 21
+[22-Jun-2015 17:55:55 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 57
+[22-Jun-2015 17:56:06 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 20
+[22-Jun-2015 17:56:06 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 21
+[22-Jun-2015 17:56:06 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 57
+[22-Jun-2015 17:56:14 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 20
+[22-Jun-2015 17:56:14 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 21
+[22-Jun-2015 17:56:14 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 57
+[22-Jun-2015 17:57:08 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 20
+[22-Jun-2015 17:57:08 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 21
+[22-Jun-2015 17:57:08 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 57
+[22-Jun-2015 17:57:19 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 20
+[22-Jun-2015 17:57:19 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 21
+[22-Jun-2015 17:57:19 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 57
+[22-Jun-2015 17:57:30 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 20
+[22-Jun-2015 17:57:30 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 21
+[22-Jun-2015 17:57:30 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 57
+[22-Jun-2015 17:57:33 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 20
+[22-Jun-2015 17:57:33 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 21
+[22-Jun-2015 17:57:33 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 57
+[22-Jun-2015 18:13:05 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 20
+[22-Jun-2015 18:13:05 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 21
+[22-Jun-2015 18:13:05 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 57
+[22-Jun-2015 18:18:48 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 20
+[22-Jun-2015 18:18:48 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 21
+[22-Jun-2015 18:18:48 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 57
+[22-Jun-2015 18:19:40 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 20
+[22-Jun-2015 18:19:40 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 21
+[22-Jun-2015 18:19:40 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 57
+[22-Jun-2015 18:22:46 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 20
+[22-Jun-2015 18:22:46 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 21
+[22-Jun-2015 18:22:46 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 57
+[01-Jul-2015 04:05:17 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[01-Jul-2015 04:06:15 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[01-Jul-2015 04:07:01 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[01-Jul-2015 04:07:02 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[01-Jul-2015 04:07:03 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[01-Jul-2015 04:07:20 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[01-Jul-2015 04:07:35 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[01-Jul-2015 04:08:39 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[01-Jul-2015 04:09:04 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[01-Jul-2015 04:09:18 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[01-Jul-2015 04:09:19 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[01-Jul-2015 04:09:24 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[01-Jul-2015 04:10:45 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[01-Jul-2015 04:10:46 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[01-Jul-2015 04:10:47 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[01-Jul-2015 04:10:48 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[01-Jul-2015 04:10:48 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[01-Jul-2015 04:10:49 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[01-Jul-2015 04:10:49 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[01-Jul-2015 04:10:49 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[01-Jul-2015 04:10:50 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[01-Jul-2015 05:18:20 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[01-Jul-2015 05:18:42 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[01-Jul-2015 05:18:44 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[01-Jul-2015 05:18:48 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/batitco/public_html/cadaver/back/index.php on line 19
+[01-Jul-2015 05:18:50 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/batitco/public_html/cadaver/back/index.php on line 19
+[01-Jul-2015 05:19:03 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/batitco/public_html/cadaver/back/index.php on line 19
+[01-Jul-2015 05:19:32 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[01-Jul-2015 05:19:38 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[01-Jul-2015 05:19:40 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[01-Jul-2015 05:22:05 America/Denver] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/batitco/public_html/cadaver/back/index.php on line 17
+[01-Jul-2015 05:22:07 America/Denver] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/batitco/public_html/cadaver/back/index.php on line 17
+[01-Jul-2015 05:22:30 America/Denver] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/batitco/public_html/cadaver/back/index.php on line 17
+[01-Jul-2015 18:36:14 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/batitco/public_html/cadaver/back/index.php on line 35
+[01-Jul-2015 18:36:36 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/batitco/public_html/cadaver/back/index.php on line 35
+[01-Jul-2015 18:36:39 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/batitco/public_html/cadaver/back/index.php on line 35
+[01-Jul-2015 18:38:36 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/batitco/public_html/cadaver/back/index.php on line 35
+[01-Jul-2015 18:38:37 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/batitco/public_html/cadaver/back/index.php on line 35
+[01-Jul-2015 18:38:38 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/batitco/public_html/cadaver/back/index.php on line 42
+[01-Jul-2015 18:38:39 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/batitco/public_html/cadaver/back/index.php on line 42
+[01-Jul-2015 18:38:43 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/batitco/public_html/cadaver/back/index.php on line 42
+[01-Jul-2015 18:38:48 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/batitco/public_html/cadaver/back/index.php on line 42
+[01-Jul-2015 18:40:25 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/batitco/public_html/cadaver/back/index.php on line 42
+[01-Jul-2015 18:40:29 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/batitco/public_html/cadaver/back/index.php on line 42
+[01-Jul-2015 18:40:31 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/batitco/public_html/cadaver/back/index.php on line 42
+[01-Jul-2015 18:41:05 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/batitco/public_html/cadaver/back/index.php on line 42
+[01-Jul-2015 18:44:12 America/Denver] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/batitco/public_html/cadaver/back/index.php on line 42
+[01-Jul-2015 18:44:16 America/Denver] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/batitco/public_html/cadaver/back/index.php on line 42
+[01-Jul-2015 18:46:45 America/Denver] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/batitco/public_html/cadaver/back/index.php on line 42
+[01-Jul-2015 18:46:46 America/Denver] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/batitco/public_html/cadaver/back/index.php on line 42
+[01-Jul-2015 18:46:49 America/Denver] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/batitco/public_html/cadaver/back/index.php on line 42
+[01-Jul-2015 19:03:54 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[01-Jul-2015 19:04:06 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[01-Jul-2015 19:27:01 America/Denver] PHP Fatal error:  Call to undefined function getFilterColaborador() in /home/batitco/public_html/cadaver/back/index.php on line 43
+[01-Jul-2015 19:27:04 America/Denver] PHP Fatal error:  Call to undefined function getFilterColaborador() in /home/batitco/public_html/cadaver/back/index.php on line 43
+[01-Jul-2015 19:27:23 America/Denver] PHP Fatal error:  Call to undefined function getFilterColaborador() in /home/batitco/public_html/cadaver/back/index.php on line 43
+[01-Jul-2015 19:27:24 America/Denver] PHP Fatal error:  Call to undefined function getFilterColaborador() in /home/batitco/public_html/cadaver/back/index.php on line 43
+[01-Jul-2015 19:27:45 America/Denver] PHP Fatal error:  Call to undefined function getFilterColaborador() in /home/batitco/public_html/cadaver/back/index.php on line 44
+[01-Jul-2015 19:27:46 America/Denver] PHP Fatal error:  Call to undefined function getFilterColaborador() in /home/batitco/public_html/cadaver/back/index.php on line 44
+[01-Jul-2015 19:28:25 America/Denver] PHP Fatal error:  Call to undefined function getFilterColaborador() in /home/batitco/public_html/cadaver/back/index.php on line 45
+[01-Jul-2015 19:32:21 America/Denver] PHP Fatal error:  Call to undefined function getFilterColaborador() in /home/batitco/public_html/cadaver/back/index.php on line 45
+[01-Jul-2015 19:32:22 America/Denver] PHP Fatal error:  Call to undefined function getFilterColaborador() in /home/batitco/public_html/cadaver/back/index.php on line 45
+[01-Jul-2015 19:32:51 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[01-Jul-2015 19:33:30 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[01-Jul-2015 19:33:31 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[01-Jul-2015 19:33:36 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/batitco/public_html/cadaver/back/index.php on line 31
+[01-Jul-2015 19:33:36 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[01-Jul-2015 19:34:32 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/batitco/public_html/cadaver/back/index.php on line 32
+[01-Jul-2015 19:34:32 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[01-Jul-2015 19:35:23 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/batitco/public_html/cadaver/back/index.php on line 32
+[01-Jul-2015 19:35:23 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[01-Jul-2015 19:35:54 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/batitco/public_html/cadaver/back/index.php on line 32
+[01-Jul-2015 19:35:54 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[01-Jul-2015 19:53:00 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[01-Jul-2015 19:53:03 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[01-Jul-2015 19:53:08 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[01-Jul-2015 19:53:31 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[01-Jul-2015 19:53:36 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[01-Jul-2015 19:54:42 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[01-Jul-2015 19:54:53 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[01-Jul-2015 19:54:54 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[01-Jul-2015 19:54:54 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[01-Jul-2015 19:54:54 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[01-Jul-2015 19:54:55 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[01-Jul-2015 19:54:56 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[01-Jul-2015 19:54:56 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[01-Jul-2015 19:54:57 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[01-Jul-2015 20:00:35 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[01-Jul-2015 20:00:36 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[02-Jul-2015 12:57:15 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[02-Jul-2015 12:57:17 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[02-Jul-2015 12:57:17 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[02-Jul-2015 12:57:18 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[02-Jul-2015 12:57:18 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[02-Jul-2015 13:03:43 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[02-Jul-2015 13:03:46 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[02-Jul-2015 13:03:46 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[02-Jul-2015 13:04:52 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[02-Jul-2015 13:04:57 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[02-Jul-2015 13:05:53 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[03-Jul-2015 13:50:41 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[07-Jul-2015 12:39:57 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[07-Jul-2015 12:39:59 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[07-Jul-2015 12:40:00 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[07-Jul-2015 12:40:00 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[08-Jul-2015 14:38:28 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[08-Jul-2015 19:37:31 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/batitco/public_html/cadaver/back/index.php on line 31
+[08-Jul-2015 19:40:31 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/batitco/public_html/cadaver/back/index.php on line 31
+[08-Jul-2015 19:50:43 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[08-Jul-2015 19:50:43 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[09-Jul-2015 10:22:33 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 80
+[09-Jul-2015 10:22:41 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 80
+[09-Jul-2015 10:22:41 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 80
+[09-Jul-2015 10:23:27 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 80
+[09-Jul-2015 10:23:27 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 80
+[09-Jul-2015 10:23:29 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 80
+[09-Jul-2015 10:23:29 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 80
+[09-Jul-2015 10:23:40 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 80
+[09-Jul-2015 10:23:46 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 80
+[09-Jul-2015 10:23:46 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 80
+[09-Jul-2015 10:26:10 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 80
+[09-Jul-2015 10:26:18 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 80
+[09-Jul-2015 10:26:33 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 80
+[09-Jul-2015 10:26:34 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 80
+[09-Jul-2015 10:26:34 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 80
+[09-Jul-2015 10:26:37 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 80
+[09-Jul-2015 10:26:41 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 80
+[09-Jul-2015 10:26:42 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 80
+[09-Jul-2015 10:26:42 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 80
+[09-Jul-2015 10:26:47 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 80
+[09-Jul-2015 10:26:47 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 80
+[09-Jul-2015 10:26:47 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 80
+[09-Jul-2015 10:26:56 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 80
+[09-Jul-2015 10:26:57 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 80
+[09-Jul-2015 10:26:57 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 80
+[09-Jul-2015 10:27:04 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 80
+[09-Jul-2015 10:27:04 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 80
+[09-Jul-2015 10:27:04 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 80
+[09-Jul-2015 10:27:07 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 80
+[09-Jul-2015 10:27:15 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 80
+[09-Jul-2015 10:27:15 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 80
+[09-Jul-2015 10:27:15 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 80
+[09-Jul-2015 10:27:17 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 80
+[09-Jul-2015 10:34:29 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 68
+[09-Jul-2015 10:34:30 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 68
+[09-Jul-2015 10:34:40 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 68
+[09-Jul-2015 10:34:41 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 68
+[09-Jul-2015 10:34:41 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 68
+[09-Jul-2015 10:34:55 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 68
+[09-Jul-2015 10:34:55 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 68
+[09-Jul-2015 10:35:02 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 68
+[09-Jul-2015 10:35:02 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 68
+[09-Jul-2015 10:35:02 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 68
+[09-Jul-2015 10:35:26 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 68
+[09-Jul-2015 10:35:26 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 68
+[09-Jul-2015 10:35:26 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 68
+[09-Jul-2015 10:35:48 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 68
+[09-Jul-2015 10:35:48 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 68
+[09-Jul-2015 10:35:48 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 68
+[09-Jul-2015 10:35:59 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 68
+[09-Jul-2015 10:35:59 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 68
+[09-Jul-2015 10:35:59 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 68
+[09-Jul-2015 10:36:10 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 68
+[09-Jul-2015 10:36:10 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 68
+[09-Jul-2015 10:36:10 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 68
+[09-Jul-2015 10:36:18 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 68
+[09-Jul-2015 10:36:19 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 68
+[09-Jul-2015 10:36:19 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 68
+[09-Jul-2015 10:36:25 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 68
+[09-Jul-2015 10:36:25 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 68
+[09-Jul-2015 10:36:26 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 68
+[09-Jul-2015 10:36:28 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 68
+[09-Jul-2015 10:36:29 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 68
+[09-Jul-2015 10:36:40 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 68
+[09-Jul-2015 10:36:51 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 68
+[09-Jul-2015 10:36:51 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 68
+[09-Jul-2015 10:36:51 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 68
+[09-Jul-2015 10:36:52 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 68
+[09-Jul-2015 10:36:54 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 68
+[09-Jul-2015 10:36:54 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 68
+[09-Jul-2015 10:36:55 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 68
+[09-Jul-2015 10:36:56 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 68
+[09-Jul-2015 11:03:42 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 68
+[09-Jul-2015 11:03:43 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 68
+[09-Jul-2015 11:03:43 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 68
+[09-Jul-2015 11:03:50 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 68
+[09-Jul-2015 11:03:50 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 68
+[09-Jul-2015 11:03:58 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 68
+[09-Jul-2015 11:03:58 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 68
+[09-Jul-2015 11:03:59 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 68
+[09-Jul-2015 11:04:09 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 68
+[09-Jul-2015 11:04:10 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 68
+[09-Jul-2015 11:04:10 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 68
+[09-Jul-2015 11:04:12 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 68
+[09-Jul-2015 11:04:12 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 68
+[09-Jul-2015 11:04:14 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 68
+[09-Jul-2015 11:04:14 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 68
+[09-Jul-2015 11:04:15 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/batitco/public_html/cadaver/back/index.php on line 68
+[09-Jul-2015 11:11:14 America/Denver] PHP Fatal error:  Call to undefined function html_entity_encode() in /home/batitco/public_html/cadaver/back/index.php on line 78
+[09-Jul-2015 11:11:17 America/Denver] PHP Fatal error:  Call to undefined function html_entity_encode() in /home/batitco/public_html/cadaver/back/index.php on line 78
+[09-Jul-2015 11:11:17 America/Denver] PHP Fatal error:  Call to undefined function html_entity_encode() in /home/batitco/public_html/cadaver/back/index.php on line 78
+[09-Jul-2015 11:11:22 America/Denver] PHP Fatal error:  Call to undefined function html_entity_encode() in /home/batitco/public_html/cadaver/back/index.php on line 78
+[09-Jul-2015 11:11:22 America/Denver] PHP Fatal error:  Call to undefined function html_entity_encode() in /home/batitco/public_html/cadaver/back/index.php on line 78
+[09-Jul-2015 11:11:22 America/Denver] PHP Fatal error:  Call to undefined function html_entity_encode() in /home/batitco/public_html/cadaver/back/index.php on line 78
+[09-Jul-2015 11:11:25 America/Denver] PHP Fatal error:  Call to undefined function html_entity_encode() in /home/batitco/public_html/cadaver/back/index.php on line 78
+[09-Jul-2015 11:11:30 America/Denver] PHP Fatal error:  Call to undefined function html_entity_encode() in /home/batitco/public_html/cadaver/back/index.php on line 78
+[09-Jul-2015 11:11:30 America/Denver] PHP Fatal error:  Call to undefined function html_entity_encode() in /home/batitco/public_html/cadaver/back/index.php on line 78
+[09-Jul-2015 11:11:34 America/Denver] PHP Fatal error:  Call to undefined function html_entity_encode() in /home/batitco/public_html/cadaver/back/index.php on line 78
+[09-Jul-2015 11:11:35 America/Denver] PHP Fatal error:  Call to undefined function html_entity_encode() in /home/batitco/public_html/cadaver/back/index.php on line 78
+[09-Jul-2015 11:11:45 America/Denver] PHP Fatal error:  Call to undefined function html_entity_encode() in /home/batitco/public_html/cadaver/back/index.php on line 78
+[09-Jul-2015 11:11:45 America/Denver] PHP Fatal error:  Call to undefined function html_entity_encode() in /home/batitco/public_html/cadaver/back/index.php on line 78
+[09-Jul-2015 11:22:53 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/batitco/public_html/cadaver/back/index.php:68) in /home/batitco/public_html/cadaver/back/index.php on line 80
+[09-Jul-2015 11:24:17 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[09-Jul-2015 11:24:24 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[09-Jul-2015 11:24:36 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[09-Jul-2015 11:24:38 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[09-Jul-2015 14:36:59 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[09-Jul-2015 14:37:16 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[09-Jul-2015 14:37:19 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaver/back/class/settings/MySqlModel.class.php on line 59
+[09-Jul-2015 22:29:49 America/Denver] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'batitco_cadaver'@'localhost' to database 'batitco_cadaver' in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 20
+[09-Jul-2015 22:29:49 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 21
+[09-Jul-2015 22:29:49 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 57
+[09-Jul-2015 22:31:45 America/Denver] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'batitco_cadaver'@'localhost' to database 'batitco_cadaver' in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 20
+[09-Jul-2015 22:31:45 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 21
+[09-Jul-2015 22:31:45 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 57
+[09-Jul-2015 22:31:54 America/Denver] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'batitco_cadaver'@'localhost' to database 'batitco_cadaver' in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 20
+[09-Jul-2015 22:31:54 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 21
+[09-Jul-2015 22:31:54 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 57
+[09-Jul-2015 22:38:28 America/Denver] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'batitco_cadaver'@'localhost' to database 'batitco_cadaver' in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 20
+[09-Jul-2015 22:38:28 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 21
+[09-Jul-2015 22:38:28 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 32
+[09-Jul-2015 22:38:28 America/Denver] PHP Warning:  MySqlModel::excecute(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 33
+[09-Jul-2015 22:38:29 America/Denver] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'batitco_cadaver'@'localhost' to database 'batitco_cadaver' in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 20
+[09-Jul-2015 22:38:29 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 21
+[09-Jul-2015 22:38:29 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 32
+[09-Jul-2015 22:38:29 America/Denver] PHP Warning:  MySqlModel::excecute(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 33
+[09-Jul-2015 22:38:31 America/Denver] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'batitco_cadaver'@'localhost' to database 'batitco_cadaver' in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 20
+[09-Jul-2015 22:38:31 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 21
+[09-Jul-2015 22:38:31 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 32
+[09-Jul-2015 22:38:31 America/Denver] PHP Warning:  MySqlModel::excecute(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 33
+[09-Jul-2015 22:38:31 America/Denver] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'batitco_cadaver'@'localhost' to database 'batitco_cadaver' in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 20
+[09-Jul-2015 22:38:31 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 21
+[09-Jul-2015 22:38:31 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 32
+[09-Jul-2015 22:38:31 America/Denver] PHP Warning:  MySqlModel::excecute(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 33
+[09-Jul-2015 22:38:31 America/Denver] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'batitco_cadaver'@'localhost' to database 'batitco_cadaver' in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 20
+[09-Jul-2015 22:38:31 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 21
+[09-Jul-2015 22:38:31 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 32
+[09-Jul-2015 22:38:31 America/Denver] PHP Warning:  MySqlModel::excecute(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 33
+[09-Jul-2015 22:38:32 America/Denver] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'batitco_cadaver'@'localhost' to database 'batitco_cadaver' in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 20
+[09-Jul-2015 22:38:32 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 21
+[09-Jul-2015 22:38:32 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 32
+[09-Jul-2015 22:38:32 America/Denver] PHP Warning:  MySqlModel::excecute(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 33
+[09-Jul-2015 22:39:36 America/Denver] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'batitco_cadaver'@'localhost' to database 'batitco_cadaver' in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 20
+[09-Jul-2015 22:39:36 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 21
+[09-Jul-2015 22:39:39 America/Denver] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'batitco_cadaver'@'localhost' to database 'batitco_cadaver' in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 20
+[09-Jul-2015 22:39:39 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 21
+[09-Jul-2015 22:39:54 America/Denver] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'batitco_cadaver'@'localhost' to database 'batitco_cadaver' in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 20
+[09-Jul-2015 22:39:54 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 21
+[09-Jul-2015 22:39:54 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 57
+[09-Jul-2015 22:40:38 America/Denver] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'batitco_cadaver'@'localhost' to database 'batitco_cadaver' in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 20
+[09-Jul-2015 22:40:38 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 21
+[09-Jul-2015 22:40:38 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 32
+[09-Jul-2015 22:40:38 America/Denver] PHP Warning:  MySqlModel::excecute(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 33
+[09-Jul-2015 22:40:38 America/Denver] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'batitco_cadaver'@'localhost' to database 'batitco_cadaver' in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 20
+[09-Jul-2015 22:40:38 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 21
+[09-Jul-2015 22:40:38 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 32
+[09-Jul-2015 22:40:38 America/Denver] PHP Warning:  MySqlModel::excecute(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 33
+[09-Jul-2015 22:40:38 America/Denver] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'batitco_cadaver'@'localhost' to database 'batitco_cadaver' in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 20
+[09-Jul-2015 22:40:38 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 21
+[09-Jul-2015 22:40:38 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 32
+[09-Jul-2015 22:40:38 America/Denver] PHP Warning:  MySqlModel::excecute(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 33
+[09-Jul-2015 22:40:38 America/Denver] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'batitco_cadaver'@'localhost' to database 'batitco_cadaver' in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 20
+[09-Jul-2015 22:40:38 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 21
+[09-Jul-2015 22:40:38 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 32
+[09-Jul-2015 22:40:38 America/Denver] PHP Warning:  MySqlModel::excecute(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 33
+[09-Jul-2015 22:40:38 America/Denver] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'batitco_cadaver'@'localhost' to database 'batitco_cadaver' in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 20
+[09-Jul-2015 22:40:38 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 21
+[09-Jul-2015 22:40:38 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 32
+[09-Jul-2015 22:40:38 America/Denver] PHP Warning:  MySqlModel::excecute(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 33
+[09-Jul-2015 22:40:38 America/Denver] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'batitco_cadaver'@'localhost' to database 'batitco_cadaver' in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 20
+[09-Jul-2015 22:40:38 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 21
+[09-Jul-2015 22:40:38 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 32
+[09-Jul-2015 22:40:38 America/Denver] PHP Warning:  MySqlModel::excecute(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 33
+[09-Jul-2015 22:40:39 America/Denver] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'batitco_cadaver'@'localhost' to database 'batitco_cadaver' in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 20
+[09-Jul-2015 22:40:39 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 21
+[09-Jul-2015 22:40:39 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 32
+[09-Jul-2015 22:40:39 America/Denver] PHP Warning:  MySqlModel::excecute(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 33
+[09-Jul-2015 22:40:39 America/Denver] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'batitco_cadaver'@'localhost' to database 'batitco_cadaver' in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 20
+[09-Jul-2015 22:40:39 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 21
+[09-Jul-2015 22:40:39 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 32
+[09-Jul-2015 22:40:39 America/Denver] PHP Warning:  MySqlModel::excecute(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 33
+[09-Jul-2015 22:40:39 America/Denver] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'batitco_cadaver'@'localhost' to database 'batitco_cadaver' in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 20
+[09-Jul-2015 22:40:39 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 21
+[09-Jul-2015 22:40:39 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 32
+[09-Jul-2015 22:40:39 America/Denver] PHP Warning:  MySqlModel::excecute(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 33
+[09-Jul-2015 22:40:40 America/Denver] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'batitco_cadaver'@'localhost' to database 'batitco_cadaver' in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 20
+[09-Jul-2015 22:40:40 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 21
+[09-Jul-2015 22:40:40 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 32
+[09-Jul-2015 22:40:40 America/Denver] PHP Warning:  MySqlModel::excecute(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 33
+[09-Jul-2015 22:40:40 America/Denver] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'batitco_cadaver'@'localhost' to database 'batitco_cadaver' in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 20
+[09-Jul-2015 22:40:40 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 21
+[09-Jul-2015 22:40:40 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 32
+[09-Jul-2015 22:40:40 America/Denver] PHP Warning:  MySqlModel::excecute(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 33
+[09-Jul-2015 22:40:40 America/Denver] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'batitco_cadaver'@'localhost' to database 'batitco_cadaver' in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 20
+[09-Jul-2015 22:40:40 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 21
+[09-Jul-2015 22:40:40 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 32
+[09-Jul-2015 22:40:40 America/Denver] PHP Warning:  MySqlModel::excecute(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 33
+[09-Jul-2015 22:40:41 America/Denver] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'batitco_cadaver'@'localhost' to database 'batitco_cadaver' in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 20
+[09-Jul-2015 22:40:41 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 21
+[09-Jul-2015 22:40:41 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 32
+[09-Jul-2015 22:40:41 America/Denver] PHP Warning:  MySqlModel::excecute(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 33
+[09-Jul-2015 22:40:41 America/Denver] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'batitco_cadaver'@'localhost' to database 'batitco_cadaver' in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 20
+[09-Jul-2015 22:40:41 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 21
+[09-Jul-2015 22:40:41 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 32
+[09-Jul-2015 22:40:41 America/Denver] PHP Warning:  MySqlModel::excecute(): Couldn't fetch mysqli in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 33
+[10-Jul-2015 00:23:51 America/Denver] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/batitco/public_html/cadaveraldea/back/index.php on line 92
+[10-Jul-2015 00:27:01 America/Denver] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/batitco/public_html/cadaveraldea/back/index.php on line 92
+[10-Jul-2015 00:27:01 America/Denver] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/batitco/public_html/cadaveraldea/back/index.php on line 92
+[10-Jul-2015 00:27:01 America/Denver] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/batitco/public_html/cadaveraldea/back/index.php on line 92
+[10-Jul-2015 00:30:20 America/Denver] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/batitco/public_html/cadaveraldea/back/index.php on line 92
+[10-Jul-2015 00:30:21 America/Denver] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/batitco/public_html/cadaveraldea/back/index.php on line 92
+[10-Jul-2015 00:30:21 America/Denver] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/batitco/public_html/cadaveraldea/back/index.php on line 92
+[10-Jul-2015 00:36:51 America/Denver] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/batitco/public_html/cadaveraldea/back/index.php on line 92
+[10-Jul-2015 00:36:51 America/Denver] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/batitco/public_html/cadaveraldea/back/index.php on line 92
+[10-Jul-2015 00:36:51 America/Denver] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/batitco/public_html/cadaveraldea/back/index.php on line 92
+[10-Jul-2015 00:36:51 America/Denver] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/batitco/public_html/cadaveraldea/back/index.php on line 92
+[10-Jul-2015 00:36:51 America/Denver] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/batitco/public_html/cadaveraldea/back/index.php on line 92
+[10-Jul-2015 00:36:51 America/Denver] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/batitco/public_html/cadaveraldea/back/index.php on line 92
+[10-Jul-2015 00:36:52 America/Denver] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/batitco/public_html/cadaveraldea/back/index.php on line 92
+[10-Jul-2015 00:36:52 America/Denver] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/batitco/public_html/cadaveraldea/back/index.php on line 92
+[10-Jul-2015 00:36:52 America/Denver] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/batitco/public_html/cadaveraldea/back/index.php on line 92
+[10-Jul-2015 00:36:52 America/Denver] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/batitco/public_html/cadaveraldea/back/index.php on line 92
+[10-Jul-2015 00:36:52 America/Denver] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/batitco/public_html/cadaveraldea/back/index.php on line 92
+[10-Jul-2015 00:36:52 America/Denver] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/batitco/public_html/cadaveraldea/back/index.php on line 92
+[10-Jul-2015 00:36:52 America/Denver] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/batitco/public_html/cadaveraldea/back/index.php on line 92
+[10-Jul-2015 00:36:53 America/Denver] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/batitco/public_html/cadaveraldea/back/index.php on line 92
+[10-Jul-2015 00:36:53 America/Denver] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/batitco/public_html/cadaveraldea/back/index.php on line 92
+[10-Jul-2015 00:49:44 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/batitco/public_html/cadaveraldea/back/index.php:91) in /home/batitco/public_html/cadaveraldea/back/index.php on line 102
+[10-Jul-2015 02:13:08 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/batitco/public_html/cadaveraldea/back/index.php on line 31
+[10-Jul-2015 02:13:16 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/batitco/public_html/cadaveraldea/back/index.php on line 31
+[10-Jul-2015 02:13:28 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/batitco/public_html/cadaveraldea/back/index.php on line 31
+[10-Jul-2015 02:14:22 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/batitco/public_html/cadaveraldea/back/index.php on line 31
+[10-Jul-2015 02:15:03 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/batitco/public_html/cadaveraldea/back/index.php on line 31
+[10-Jul-2015 12:18:08 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 59
+[11-Jul-2015 13:14:05 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/batitco/public_html/cadaveraldea/back/index.php on line 31
+[13-Jul-2015 13:43:28 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/batitco/public_html/cadaveraldea/back/index.php on line 31
+[15-Jul-2015 11:26:51 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 59
+[16-Jul-2015 10:02:16 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/batitco/public_html/cadaveraldea/back/index.php on line 31
+[16-Jul-2015 10:02:29 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/batitco/public_html/cadaveraldea/back/index.php on line 31
+[22-Jul-2015 20:33:46 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 59
+[31-Jul-2015 08:11:30 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/batitco/public_html/cadaveraldea/back/index.php on line 31
+[31-Jul-2015 08:12:31 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 59
+[31-Jul-2015 08:12:35 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/batitco/public_html/cadaveraldea/back/class/settings/MySqlModel.class.php on line 59
+[31-Jul-2015 08:13:09 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/batitco/public_html/cadaveraldea/back/index.php on line 31
